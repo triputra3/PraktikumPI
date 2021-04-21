@@ -1,4 +1,4 @@
 def output:
-    print("Hello, world!")
+    print("Yes")
 
 output()
