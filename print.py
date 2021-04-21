@@ -1,4 +1,1 @@
-def output:
-    print("Yes")
-
-output()
+print("Yes")
